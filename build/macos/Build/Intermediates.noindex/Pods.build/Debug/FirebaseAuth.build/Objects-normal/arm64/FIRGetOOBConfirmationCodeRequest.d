@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/laukiksharma/Downloads/tiffin_ez/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseAuth.build/module.modulemap \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/FIRGetOOBConfirmationCodeRequest.m \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/FIRGetOOBConfirmationCodeRequest.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/os_availability.modulemap \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCRequest.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRIdentityToolkitRequest.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRequestConfiguration.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseAppCheckInterop.build/module.modulemap \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRActionCodeSettings.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuth_Internal.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Interop/FIRAuthInterop.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCResponse.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseCore/Extension/FIRLogger.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCore.build/module.modulemap \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthErrorUtils.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorInfo.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthInternalErrors.h

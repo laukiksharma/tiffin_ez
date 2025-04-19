@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162966246513",
+    "project_id": "fir-authentication-66bfb",
+    "storage_bucket": "fir-authentication-66bfb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162966246513:android:550e99e9ac1e71744db7d0",
+        "android_client_info": {
+          "package_name": "com.example.tiffin_ez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_W7yS4cSvetKppVko6SSZOIWjCB1aBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">162966246513</string>
+    <string name="google_api_key" translatable="false">AIzaSyD0_W7yS4cSvetKppVko6SSZOIWjCB1aBM</string>
+    <string name="google_app_id" translatable="false">1:162966246513:android:550e99e9ac1e71744db7d0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD0_W7yS4cSvetKppVko6SSZOIWjCB1aBM</string>
+    <string name="google_storage_bucket" translatable="false">fir-authentication-66bfb.firebasestorage.app</string>
+    <string name="project_id" translatable="false">fir-authentication-66bfb</string>
+</resources>

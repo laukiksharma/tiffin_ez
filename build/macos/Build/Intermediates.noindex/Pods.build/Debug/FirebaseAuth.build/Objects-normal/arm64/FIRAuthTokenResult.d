@@ -1,0 +1,13 @@
+dependencies: \
+  /Users/laukiksharma/Downloads/tiffin_ez/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseAuth.build/module.modulemap \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuthTokenResult.m \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Auth/FIRAuthTokenResult_Internal.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/os_availability.modulemap \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthTokenResult.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthErrorUtils.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorInfo.h \
+  /Users/laukiksharma/Downloads/tiffin_ez/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthInternalErrors.h
